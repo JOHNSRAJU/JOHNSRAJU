@@ -7,7 +7,7 @@
 </head>
 <body style="background-image:url('https://wallpapercave.com/wp/wp239965.jpg') ;">
     <h1 style="padding: 30px;background-image:url('https://png.pngtree.com/thumb_back/fh260/back_our/20190617/ourmid/pngtree-blue-ink-large-size-background-image_124631.jpg');font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"" >JOHNS RAJU
-         <img class="pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQGECLVMGIyzyw/profile-displayphoto-shrink_200_200/0/1607761409691?e=1658966400&v=beta&t=B1578swddarBoz8XhOADBV5zUN7N6f8NlMyGEGVwl7Y" alt="" align="right" width="100" height ="100">
+         <img class="pic" src="https://github.com/JOHNSRAJU/JOHNSRAJU/blob/2f908cb2283ef2acb38af781c3a369b76f157ea5/IMG_20220430_210739_320.jpg" alt="" align="right" width="100" height ="100">
          <H3 style="font-size: 18px; font-family:Arial, Helvetica, sans-serif ;">JOHNSRAJU<H3>
     </h1>
     <br>
