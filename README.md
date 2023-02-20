@@ -17,8 +17,6 @@
     <a href="https://www.facebook.com/johns.raju.50/"><img class="acclogo" src="https://newsstore24.com/wp-content/uploads/2021/07/facebook-600.png" alt="" width="45px" height="40px" align="right" style="padding:7px;"></a>
     <a href="https://www.instagram.com/johns_raju_/"><img class="acclogo"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" alt="" width="40px" height="40px" align="right"  style="padding:7px";></a>
     <br>
-    <a href="http://wa.me/+917034863808"><img class="acclogo" src="https://pbs.twimg.com/profile_images/1318652224638124032/wrpp2Nl4_400x400.png" alt="" width="40px" height="40px"align="right"  style="padding:7px;"></a>
-    <br>
     <br>
     <br>
   <h1>
